@@ -1,0 +1,16 @@
+Contract Address:
+0xC80081Dc33fA0aF2677E96549fA26991B5C0c731
+
+
+
+libraries:
+truffle-hdwallet-provider : HDWalletProvider for Infura deployment
+ganache-cli :    Local Ethereum blockchain
+Truffle v4.1.14 :  Framework for deploing smart contracts
+
+
+
+Versions:
+Node.js v16.13.2.
+Truffle v4.1.14  (core: 4.1.14)
+Solidity v0.4.24 (solc-js)
